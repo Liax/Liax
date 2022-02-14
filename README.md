@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="100%" height="150px" src="./assets/baniere.png" alt="baniere" />
+  <img width="100%" height="150px" src="./assets/test.gif" alt="baniere" />
 </h1>
 
 ## Hello, I'm Clara MARTIN 👋
