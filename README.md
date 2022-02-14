@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/Liax?tab=repositories">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Liax&show_icons=true&title_color=EFCDCD&bg_color=0D4944&text_color=EFCDCD&icon_color=EFCDCD&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liax&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liax&title_color=EFCDCD&bg_color=E4EFF9&text_color=58585A&icon_color=EFCDCD&layout=compact&langs_count=7&theme=buefy"/>
 </div >
 
 <div align="center">
