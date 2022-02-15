@@ -17,7 +17,7 @@
 
 <div align="center" margin-top="35px">
 
-## Mes Langages
+## Langages et logiciels
 
   <div>
   <img width="35px" src="./assets/html5.svg" alt="HTML5">
