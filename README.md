@@ -5,6 +5,7 @@
 ## Hi there ! Je suis Clara Martin ☾ 
 
 <p>Je suis une graphiste développeuse front-end</p>
+<p>
 
 <div align="center">
   <a href="https://github.com/Liax?tab=repositories">
@@ -25,7 +26,6 @@
   <img width="25px" src="./assets/git.svg" alt="git">
   <img width="25px" src="./assets/github.svg" alt="gihub">
   <img width="25px" src="./assets/mysql.svg" alt="mysql">
-  <img width="25px" src="./assets/express.svg" alt="express">
   </div>
 
 </div>
