@@ -38,17 +38,21 @@
 
 ## Skills
   <div width="45%">
-    Méthodes Agiles
-Empathie
-Pédagogie
-Travail de groupe
+    <ul>
+  <li>  Méthodes Agiles</li>
+<li>Empathie</li>
+<li>Pédagogie</li>
+<li>Travail de groupe</li>
+    </ul>
   </div>
    <div width="45%">
-    Identité Visuelle
-Developement web
-Photographie
-Mac OS - Windows
-Anglais Bilingue
+     <ul>
+<li>Identité Visuelle</li>
+<li>Developement web</li>
+<li>Photographie</li>
+<li>Mac OS - Windows</li>
+     <li>Anglais Bilingue</li>
+     </ul>
   </div>
 </div>
 <div align="center">
