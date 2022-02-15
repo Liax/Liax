@@ -34,7 +34,7 @@
 
 ## Contact 📬
 
-<a href="martinclara@hotmail.fr"><img width="25px" src="./assets/hotmail.svg" alt="hotmail"></img></a>
+<a href="martinclara@hotmail.fr"><img width="25px" src="./assets/mail.svg" alt="hotmail"></img></a>
 <a href="https://www.linkedin.com/in/claramart/"><img width="25px" src="./assets/linkedin.svg" alt="linkedin"></img></a>
 
 </div>
