@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 48 48" width="48px" height="48px"><path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"/><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"/><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"/><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 52 52" style="enable-background:new 0 0 52 52;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#174944;}
+	.st1{fill:#FFFFFF;}
+</style>
+<circle class="st0" cx="26" cy="26" r="26"/>
+<path class="st1" d="M43,9H9l3,34l14,4l14-4L43,9L43,9z"/>
+<path class="st1" d="M26,12v31.9l11.2-3.2L39.7,12H26z"/>
+<path class="st0" d="M26,29v-4h8.6l-0.7,11.5L26,39.1v-4.2l4.1-1.4l0.3-4.5C30.4,29,26,29,26,29z M34.9,21l0.3-4H26v4H34.9z"/>
+<path class="st0" d="M26,34.9v4.2l-7.9-2.6L17.7,31h4l0.2,2.5L26,34.9z M21.1,21H26v-4h-9.1l0.7,12H26v-4h-4.6L21.1,21z"/>
+</svg>
