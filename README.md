@@ -18,14 +18,14 @@
 ## Mes Langages 💻
 
   <div>
-  <img width="25px" src="./assets/html5.svg" alt="HTML5">
-  <img width="25px" src="./assets/css3.svg" alt="CSS3">
-  <img width="25px" src="./assets/javascript.svg" alt="Javascript">
-  <img width="25px" src="./assets/react.svg" alt="react">
-  <img width="25px" src="./assets/nodedotjs.svg" alt="node">
-  <img width="25px" src="./assets/git.svg" alt="git">
-  <img width="25px" src="./assets/github.svg" alt="gihub">
-  <img width="25px" src="./assets/mysql.svg" alt="mysql">
+  <img width="50px" src="./assets/html5.svg" alt="HTML5">
+  <img width="50px" src="./assets/css3.svg" alt="CSS3">
+  <img width="50px" src="./assets/javascript.svg" alt="Javascript">
+  <img width="50px" src="./assets/react.svg" alt="react">
+  <img width="50px" src="./assets/nodedotjs.svg" alt="node">
+  <img width="50px" src="./assets/git.svg" alt="git">
+  <img width="50px" src="./assets/github.svg" alt="gihub">
+  <img width="50px" src="./assets/mysql.svg" alt="mysql">
   </div>
 
 </div>
