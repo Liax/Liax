@@ -9,12 +9,6 @@
 <p>Je suis une graphiste développeuse front-end</p>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Liax?tab=repositories">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Liax&show_icons=true&title_color=EFCDCD&bg_color=0D4944&text_color=BEBEBE&icon_color=E4EFF9&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liax&title_color=EFCDCD&bg_color=0D4944&text_color=BEBEBE&icon_color=E4EFF9&layout=compact&langs_count=7"/>
-</div >
-
 <div align="center" margin-top="35px">
 
 ## Langages et logiciels
